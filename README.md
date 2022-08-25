@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Rocio Gutierrez Barcia
-- 🌱 I’m currently learning html, css and js
+- 🌱 I’m currently learning html, css and js Angular boostrop mySQL 
 - 📫 How to reach me : folow me on my GitHub,  my email rocioguba2511@gmail.com or my Discord: RocioGuba 
 
 <!---
